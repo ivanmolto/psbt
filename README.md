@@ -43,4 +43,4 @@ To learn more about the technologies used in this site template, see the followi
 
 The code is licensed under a MIT License.
 
-Some contributed definitions have been sourced under a CC-BY license from the https://en.bitcoin.it/wiki/Main_Page [bitcoin Wiki], and other contributed definitions have been sourced under a CC-BY-SA license from "Mastering Bitcoin: Unlocking Digital Currencies" (1st Edition) by Andreas M. Antonopoulos.
+Some contributed definitions have been sourced under a CC-BY license from the [bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page), and other contributed definitions have been sourced under a CC-BY-SA license from "Mastering Bitcoin: Unlocking Digital Currencies" (1st Edition) by Andreas M. Antonopoulos.

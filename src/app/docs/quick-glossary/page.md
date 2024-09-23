@@ -316,6 +316,10 @@ Not to be confused with fork, hard fork, software fork or Git fork.
 
 Block that was successfully mined but that isn’t included on the current best blockchain, likely because some other block at the same height had its chain extended first. Not to be confused with orphan block.
 
+## taproot
+
+The Taproot upgrade is an enhancement to the Bitcoin protocol, striving to improve the privacy and efficiency of the network.
+
 ## timelock
 
 A timelock is a type of encumbrance that restricts the spending of some bitcoin until a specified future time or block height. Timelocks feature prominently in many Bitcoin contracts, including payment channels and hashed timelock contracts.

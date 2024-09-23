@@ -347,7 +347,3 @@ Software that holds all your Bitcoin addresses and secret keys. Use it to send, 
 ## wallet import format
 
 WIF or Wallet Import Format is a data interchange format designed to allow exporting and importing a single private key with a flag indicating whether or not it uses a compressed public key.
-
----
-
-Some contributed definitions have been sourced under a CC-BY license from the https://en.bitcoin.it/wiki/Main_Page [bitcoin Wiki], and other contributed definitions have been sourced under a CC-BY-SA license from "Mastering Bitcoin: Unlocking Digital Currencies" (1st Edition) by Andreas M. Antonopoulos in which I was one of the contributors.

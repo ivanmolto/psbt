@@ -3,7 +3,7 @@ title: About
 nextjs:
   metadata:
     title: About
-    description: About PSBT Academy educational website
+    description: About PSBT Wiki educational website
 ---
 
 ## PSBT Wiki

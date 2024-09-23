@@ -1,6 +1,6 @@
 export const navigation = [
   {
-    title: 'WTF is PSBT?',
+    title: 'What is a PSBT?',
     links: [
       { title: 'For Nerds', href: '/' },
       { title: 'ELI5', href: '/docs/eli5' },
@@ -10,7 +10,7 @@ export const navigation = [
   {
     title: 'Code and Documentation',
     links: [
-      { title: 'Updates and Contributions', href: '/docs/updates' },
+      { title: 'Contributions', href: '/docs/contributions' },
       { title: 'BIP-174', href: '/docs/bip-174' },
       { title: 'BIP-370', href: '/docs/bip-370' },
     ],
@@ -21,6 +21,7 @@ export const navigation = [
       { title: 'Memes', href: '/docs/memes' },
       { title: 'Quick Glossary', href: '/docs/quick-glossary' },
       { title: 'External Links', href: '/docs/external-links' },
+      { title: 'About', href: '/docs/about' },
     ],
   },
 ]

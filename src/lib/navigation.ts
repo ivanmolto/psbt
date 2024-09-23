@@ -5,6 +5,7 @@ export const navigation = [
       { title: 'For Nerds', href: '/' },
       { title: 'ELI5', href: '/docs/eli5' },
       { title: 'Motivation', href: '/docs/motivation' },
+      { title: 'Use Cases', href: '/docs/use-cases' },
     ],
   },
   {

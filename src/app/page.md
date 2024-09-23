@@ -6,13 +6,13 @@ A PSBT is a standardized format introduced by BIP-174 that allows multiple parti
 
 {% quick-links %}
 
-{% quick-link title="BIP-174" icon="installation" href="/docs/bip-174" description="Step-by-step guides to setting up your system and installing the library." /%}
+{% quick-link title="BIP-174" icon="installation" href="/docs/bip-174" description="Getting started with the BIP that defined the format for PSBT." /%}
 
 {% quick-link title="Contributions" icon="plugins" href="/docs/contributions" description="Learn how the internals work and contribute." /%}
 
 {% quick-link title="Memes" icon="presets" href="/docs/memes" description="Partially Signed Bitcoin Transactions as a Meme-a-Palooza" /%}
 
-{% quick-link title="Quick Glossary" icon="theming" href="/docs/quick-glossary" description="Learn to easily customize and modify your app's visual design to fit your brand." /%}
+{% quick-link title="Quick Glossary" icon="theming" href="/docs/quick-glossary" description="A glossary containing many of the terms used in relation to Bitcoin." /%}
 
 {% /quick-links %}
 

@@ -215,6 +215,10 @@ Transactions that can't go into the pool due to one or more missing input transa
 
 Output, transaction output, or TxOut is an output in a transaction which contains two fields: a value field for transferring zero or more satoshis and a pubkey script for indicating what conditions must be fulfilled for those satoshis to be further spent.
 
+## output script
+
+A script included in outputs which sets the conditions that must be fulfilled for those satoshis to be spent. Data for fulfilling the conditions can be provided in a signature script.
+
 ## p2pkh
 
 Transactions that pay a Bitcoin address contain P2PKH or Pay To PubKey Hash scripts. An output locked by a P2PKH script can be unlocked (spent) by presenting a public key and a digital signature created by the corresponding private key.
@@ -271,7 +275,7 @@ An amount included in each new block as a reward by the network to the miner who
 
 RIPEMD-160 is a 160-bit cryptographic hash function. RIPEMD-160 is a strengthened version of RIPEMD with a 160-bit hash result, and is expected to be secure for the next ten years or more.
 
-## sat rarity
+## sat rarity
 
 Similar to rarity on NFTs in Ethereum and other EVM compatible blockchains, sat rarity associates special meaning to specific satoshis.
 
@@ -286,10 +290,6 @@ Satoshi Nakamoto is the name used by the person or people who designed Bitcoin a
 ## script
 
 Bitcoin uses a scripting system for transactions. Forth-like, Script is simple, stack-based, and processed from left to right. It is purposefully not Turing-complete, with no loops.
-
-## output script
-
-A script included in outputs which sets the conditions that must be fulfilled for those satoshis to be spent. Data for fulfilling the conditions can be provided in a signature script.
 
 ## secret key (aka private key)
 

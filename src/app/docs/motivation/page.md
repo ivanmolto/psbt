@@ -13,3 +13,7 @@ Before BIP-174, creating unsigned or partially signed transactions to be passed 
 One of the goals of BIP-174 was to create a standard and extensible format that could be used between clients to allow people to pass around the same transaction to sign and combine their signatures. The format was also designed to be easily extended for future use which was harder to do with existing transaction formats.
 
 Signing transactions also requires users to have access to the UTXOs being spent. The PSBT transaction format allows offline signers such as air-gapped wallets and hardware wallets to be able to sign transactions without needing direct access to the UTXO set and without risk of being defrauded.
+
+{% callout title="You should know!" %}
+The primary motivation for BIP-174 was to simplify and standardize how multiple signers might coordinate signing a multisig transaction.
+{% /callout %}
